@@ -1,0 +1,27 @@
+# Node related
+node_modules/
+npm-debug.log
+
+# Truffle related
+build/
+truffle-config.js
+
+# Environment variables
+.env
+
+# Local networks blockchain
+chaindata/
+
+# macOS system related
+.DS_Store
+
+# IDE related (for VSCode, you can add others like .idea/ for IntelliJ IDEA)
+.vscode/
+
+# Solidity compiler output
+*.solc-output.json
+
+# Other potentially sensitive files
+*.key
+*.json
+*.secret
